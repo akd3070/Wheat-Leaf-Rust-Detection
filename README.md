@@ -1,1 +1,1 @@
-# Wheat-Leaf-Rust-Detection-Using-YOLOv8
+# Wheat-Leaf-Rust-Detection
